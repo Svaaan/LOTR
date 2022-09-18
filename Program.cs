@@ -2,10 +2,25 @@
 {
     private static void Main(string[] args)
     {
-        Console.Clear();
-        //ArraySyntax = Flera olika variabler i en och samma datatyp(string)
+        while(true)
+        {
+                
+        Console.WriteLine("[1] Filmer: ");
+        Console.WriteLine("[2]Spel: ");
+        Console.WriteLine("[3]Serier: ");
+        Console.WriteLine("[4] Böcker: ");
 
-        string [] datorspel = { "Csgo", "dota2", "Eu4", "7daystodie", "fornite" };
+        string choice = Console.ReadLine();
+        int choiceNr = 0;
+        int.TryParse(choice,out choiceNr);
+
+        Console.Clear();
+        
+        switch(choiceNr)
+        {
+
+            case 1:
+             string [] datorspel = { "Csgo", "dota2", "Eu4", "7daystodie", "fornite" };
 
         for (int i = 0; i < datorspel.Length; i++) // For loop med datorspel.length då det det gör arrayen lättare att förstå
         {
@@ -42,7 +57,15 @@
                 System.Console.WriteLine(datorspel1[i]); //skriver ut spelen i alfabetisk ordning
             } 
 
+            break;
+
+
+        }
+
+        }
+
+ 
         
-          Console.ReadLine();
+ 
     }
 }
