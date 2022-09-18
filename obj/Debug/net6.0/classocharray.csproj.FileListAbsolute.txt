@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\suvnet22\classocharray\bin\Debug\net6.0\classocharray.exe
+C:\Users\danie\Documents\suvnet22\classocharray\bin\Debug\net6.0\classocharray.deps.json
+C:\Users\danie\Documents\suvnet22\classocharray\bin\Debug\net6.0\classocharray.runtimeconfig.json
+C:\Users\danie\Documents\suvnet22\classocharray\bin\Debug\net6.0\classocharray.dll
+C:\Users\danie\Documents\suvnet22\classocharray\bin\Debug\net6.0\classocharray.pdb
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.AssemblyInfo.cs
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.dll
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\refint\classocharray.dll
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.pdb
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\classocharray.genruntimeconfig.cache
+C:\Users\danie\Documents\suvnet22\classocharray\obj\Debug\net6.0\ref\classocharray.dll
