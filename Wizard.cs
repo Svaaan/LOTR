@@ -27,12 +27,20 @@ class Wizard
     static void Saruman()
     {
         //Urukhai = Spawn 2 urukhai to fight in his place
-        //Speech = Takes control of the enemies and cast his own spells against him
-        //
+        //Ensnare = Stuns enemies 
+        //Explosive = Cause an explosion that inflict damage to the opponent
+        //Boost = Give all allies around Saruman +attack, + speed + armor.
+        //Ultimate(Speech) = Takes control of the enemies to cast their own spells against them self)
 
     }
     static void Sauron()
     {
+        //Swing = Causes ha sword swing that will make + bonus damage + lifesteal
+        //
+        //Ring passive = Increases dmg, attack speed, and gives aura to allies.
+        //
+        //Ultime(Call off the nine) = Summons one off the nine to assist him for various seconds
+        
 
     }
     static void Balrog()
