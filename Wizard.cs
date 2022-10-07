@@ -1,12 +1,7 @@
-class Wizard
+class Wizard : Character
 {
-    string name;
-    string type;
-    string history;
-    int level;
-    string spell;
 
-    static void Radagast()
+     static void Radagast()
     {
         //Healing = Heals or resurrect
         //SummonOftheforest = Summons wild animals that attacks
@@ -33,22 +28,7 @@ class Wizard
         //Ultimate(Speech) = Takes control of the enemies to cast their own spells against them self)
 
     }
-    static void Sauron()
-    {
-        //Swing = Causes ha sword swing that will make + bonus damage + lifesteal
-        //
-        //Ring passive = Increases dmg, attack speed, and gives aura to allies.
-        //
-        //Ultime(Call off the nine) = Summons one off the nine to assist him for various seconds
-        
 
-    }
-    static void Balrog()
-    {
 
-    }
-    static void AngmarWitchKing()
-    {
-
-    }
+    
 }

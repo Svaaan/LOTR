@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Documents\\suvnet22\\classocharray\\classocharray.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Documents\\Gitrepos\\classocharray\\classocharray.csproj",
       "projectName": "classocharray",
-      "projectPath": "C:\\Users\\danie\\Documents\\suvnet22\\classocharray\\classocharray.csproj",
+      "projectPath": "C:\\Users\\danie\\Documents\\Gitrepos\\classocharray\\classocharray.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Documents\\suvnet22\\classocharray\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Documents\\Gitrepos\\classocharray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
