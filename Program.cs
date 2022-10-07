@@ -8,7 +8,8 @@
          Console.WriteLine("[1] Filmer: ");
          Console.WriteLine("[2]Spel: ");
          Console.WriteLine("[3]Serier: ");
-         Console.WriteLine("[4] Böcker: ");
+         Console.WriteLine("[4]Böcker: ");
+         Console.WriteLine("[5] Testa spel");
 
          string choice = Console.ReadLine();
          int choiceNr = 0;
@@ -56,6 +57,21 @@
               {
                 System.Console.WriteLine(datorspel1[i]); //skriver ut spelen i alfabetisk ordning
               } 
+               break;
+
+               case 2:
+
+               break;
+
+               case 3:
+
+               break;
+
+               case 4:
+               
+               break;
+
+               case 5:
 
                break;
 
