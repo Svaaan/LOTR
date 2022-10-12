@@ -1,7 +1,8 @@
 class Character
 {
-    public string name;
-    string history;
-    int level;
-    string spell;
+        public string name;
+        public string age;
+        public string type;
+        public string spells;
+        public string info;
 }

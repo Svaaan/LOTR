@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\Gitrepos\classocharray\bin\Debug\net6.0\LOTR.exe
+C:\Users\danie\Documents\Gitrepos\classocharray\bin\Debug\net6.0\LOTR.deps.json
+C:\Users\danie\Documents\Gitrepos\classocharray\bin\Debug\net6.0\LOTR.runtimeconfig.json
+C:\Users\danie\Documents\Gitrepos\classocharray\bin\Debug\net6.0\LOTR.dll
+C:\Users\danie\Documents\Gitrepos\classocharray\bin\Debug\net6.0\LOTR.pdb
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.AssemblyInfo.cs
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.dll
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\refint\LOTR.dll
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.pdb
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\LOTR.genruntimeconfig.cache
+C:\Users\danie\Documents\Gitrepos\classocharray\obj\Debug\net6.0\ref\LOTR.dll
